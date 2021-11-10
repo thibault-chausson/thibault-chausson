@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thibault-chausson
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning C and many more
+- 🌱 I’m currently learning C and many more...
 - 📫 How to reach me : chausson.thibault@laposte.net
 
 <!---
