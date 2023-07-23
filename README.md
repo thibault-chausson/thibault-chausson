@@ -25,7 +25,7 @@ at `chausson.thibault@laposte.net`.
     <span>&emsp;&emsp;</span>
 </div>
 
-## 📚 Projects
+## 💻 Projects
 
 I have several projects on my GitHub profile, such as:
 
