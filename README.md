@@ -42,7 +42,7 @@ I have several projects on my GitHub profile, such as:
   specialized teachers to assist struggling students. Based on the teachers' skills and students' needs, the program
   will assign teachers to students in order to minimize the hours of classes without a specialized
   teacher. ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-- [**`Médical Chatbot`**](https://github.com/adri326/ds50-project) this project was carried out as part of the DS50
+- [**`Médical Chatbot`**](https://github.com/thibault-chausson/ds50-project) this project was carried out as part of the DS50
   course at UTBM. Its purpose is to create a chatbot capable of diagnosing a patient based on their symptoms. We use
   cosine similarity to compare the patient's questions to those in our dataset and identify the most similar question.
   We then use the answer to that question to respond to the patient. If we can't find a suitable answer, we use the GPT
