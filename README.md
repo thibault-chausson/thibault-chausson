@@ -17,6 +17,8 @@ at `chausson.thibault@laposte.net`.
 
 ## 📈 Statistics
 
+[![wakatime](https://wakatime.com/badge/user/018c2177-5265-4a56-9904-c56a0755e0cc.svg)](https://wakatime.com/@018c2177-5265-4a56-9904-c56a0755e0cc)
+
 <div style="text-align: center">
     <span>&emsp;&emsp;</span>
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=thibault-chausson&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
