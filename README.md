@@ -12,8 +12,7 @@ year.
 
 ## 📫 How to reach me
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/thibault-chausson/) or by email
-at `chausson.thibault@laposte.net`.
+You can reach me on [LinkedIn](https://www.linkedin.com/in/thibault-chausson/).
 
 ## 📈 Statistics
 
